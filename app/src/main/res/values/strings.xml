@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GYG</string>
+    <string name="reviewed_by">reviewed by</string>
+    <string name="date_undefined">undefined</string>
+    <string name="page_of"> of %d</string>
+    <string name="previous">previous</string>
+    <string name="next">next</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="error">An error ocurred when downloading the reviews</string>
+</resources>
